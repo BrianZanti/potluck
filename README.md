@@ -3,7 +3,7 @@
 ## Instructions
 
 1. Fork this Repository
-1. Clone your forked repo to your computer.
+1. Clone your forked to your computer.
 1. Complete the activity below.
 1. Push your solution to your forked repo
 1. Submit a pull request from your repository to the `turingschool-examples` repository
